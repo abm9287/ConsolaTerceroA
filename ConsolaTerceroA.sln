@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolaTerceroA", "ConsolaTerceroA.csproj", "{E6DACF48-CFF2-4840-8B57-228E2EE9EE2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6DACF48-CFF2-4840-8B57-228E2EE9EE2F}.Debug|x86.ActiveCfg = Debug|x86
+		{E6DACF48-CFF2-4840-8B57-228E2EE9EE2F}.Debug|x86.Build.0 = Debug|x86
+		{E6DACF48-CFF2-4840-8B57-228E2EE9EE2F}.Release|x86.ActiveCfg = Release|x86
+		{E6DACF48-CFF2-4840-8B57-228E2EE9EE2F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DD1BB66-9AAD-46F4-B23A-5D4E8636842C}
+	EndGlobalSection
+EndGlobal
