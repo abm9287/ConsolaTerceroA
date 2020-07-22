@@ -1,3 +1,3 @@
 # ConsolaTerceroA
 
-![Uploading Captura.PNG…]()
+
